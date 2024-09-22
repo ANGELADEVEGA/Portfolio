@@ -9,21 +9,21 @@ const Contact = () => {
         <div className="flex flex-col md:flex-row items-center md:space-x-12">
           <div className="flex-1">
             <h3 className='text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r 
-            from-green-400 to-blue-500 mb-4'>Let's Talk</h3>
-            <p>I'm open to discussing web development prjectgs or partnership opportunities.</p>
+            from-green-400 to-blue-500 mb-4'>Learn More</h3>
+            <p>"I’d love to learn more about your experiences and interests in web development so we can share our knowledge with each other!"</p>
             <div className='mb-4 mt-8'>
                 <FaEnvelope className='inline-block text-green-400 mr-2'></FaEnvelope>
                 <a href="mailto:youremail@example.com" className='hover:underline'>
-                    youremail@exmple.com
+                    angeladevega212@gmail.com
                 </a>
             </div>
             <div className='mb-4'>
                 <FaPhone className='inline-block text-green-400 mr-2'></FaPhone>
-                <span>+9828839922</span>
+                <span>+63-945-499-0129</span>
             </div>
             <div className='mb-4'>
                 <FaMapMarkedAlt className='inline-block text-green-400 mr-2'></FaMapMarkedAlt>
-                <span>sreet, city, pronice, country</span>
+                <span>Blk Lot/Street/Village/City/Province/Country = Blk4 Lot17, Aquamarine St, Welmaville Subdivision, City of Binan, Santo Tomas, Laguna, Philippines</span>
             </div>
           </div>
           <div className='flex-1 w-full'>
