@@ -1,2 +1,8 @@
-# portfolio
-Welcome to my portfolio! I’m a passionate web developer specializing in creating dynamic and engaging applications using modern technologies like React, Next.js, and Flutter. My projects reflect a commitment to combining aesthetic design with user-friendly functionality.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
